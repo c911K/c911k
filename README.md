@@ -1,5 +1,12 @@
 ## Hi there 👋
 Welcome to my GitHub! I am an aspiring network security professional passionate about designing and securing modern networks.
+## 💼 Skills & Competencies
+- Network Design: VLANs, Subnetting, Routing (OSPF, EIGRP, RIP)
+- Network Security: Firewalls, Access Control, VPNs
+- Operating Systems: Linux, Windows Server
+- Automation & Scripting: PowerShell, Bash
+- Tools: Cisco Packet Tracer, Wireshark, Git/GitHub, ACtive Directory, Centreon
+- 
 ## 🔭 Current Projects
 I am currently working on developing network architectures and hands-on projects using Cisco Packet Tracer and other networking tools. These projects focus on:
 
