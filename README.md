@@ -6,7 +6,7 @@ Welcome to my GitHub! I am an aspiring network security professional passionate 
 - Operating Systems: Linux, Windows Server
 - Automation & Scripting: PowerShell, Bash
 - Tools: Cisco Packet Tracer, Wireshark, Git/GitHub, ACtive Directory, Centreon
-- 
+  
 ## 🔭 Current Projects
 I am currently working on developing network architectures and hands-on projects using Cisco Packet Tracer and other networking tools. These projects focus on:
 
