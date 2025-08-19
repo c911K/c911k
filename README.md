@@ -21,7 +21,7 @@ I am continuously improving my skills in **advanced network security**:
 - Implementing access control and firewall policies.
 - Monitoring and analyzing network traffic for vulnerabilities.
 - Automating network configurations with scripts and tools.
-- 
+
 ## 👯 Collaboration & Internship
 I am looking to collaborate with professionals in the field via internships or practical projects to gain real-world experience in network security. I am open to contributing to:
 
